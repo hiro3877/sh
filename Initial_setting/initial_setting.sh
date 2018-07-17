@@ -2,7 +2,7 @@
 
 sudo apt-get update
 sudo update-grub
-sudo apt-get install vim tmux ssh sl -y
+sudo apt-get install vim git tmux ssh sl -y
 
 cd ~
 mkdir projects
